@@ -1,13 +1,13 @@
 # repositorioNoviembre
 prueba de clase de despliegue
 
-##prueba de negrita
+## prueba de negrita
 
 **carpeta de clase**
-##prueba de cursiva
+## prueba de cursiva
 
 *fichero .txt*
 
-##Codigo fuente
+## Codigo fuente
 
 ```while (c>0)```
